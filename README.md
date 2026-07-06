@@ -104,6 +104,10 @@ python -m streamlit run app.py
 
 ![Visualization](Screenshots/visualization.png.png)
 
+### Insights
+
+![Insights](Screenshots/insights.png.png)
+
 ### AI Analyst
 
 ![AI Analyst](Screenshots/ai_analyst.pngpng)
