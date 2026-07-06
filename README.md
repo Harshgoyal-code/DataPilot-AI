@@ -92,21 +92,28 @@ python -m streamlit run app.py
 
 ## 📸 Screenshots
 
-(Add your project screenshots here)
+### Home Page
 
-- Home Page
-- Dashboard
-- Visualizations
-- AI Analyst
-- AI Insights
+![Home Page](screenshots/home.png)
+
+### Overview Dashboard
+
+![Overview](screenshots/overview.png)
+
+### Visualizations
+
+![Visualization](screenshots/visualization.png)
+
+### AI Analyst
+
+![AI Analyst](screenshots/ai_analyst.png)
 
 ---
 
 ## 🎥 Demo Video
 
 YouTube Demo:
-(Add your YouTube link here)
-
+https://youtu.be/d7k2_9aT56c
 ---
 
 ## 🔮 Future Improvements
