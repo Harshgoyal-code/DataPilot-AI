@@ -94,19 +94,19 @@ python -m streamlit run app.py
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.png.png)
 
 ### Overview Dashboard
 
-![Overview](screenshots/overview.png)
+![Overview](screenshots/overview.png.png)
 
 ### Visualizations
 
-![Visualization](screenshots/visualization.png)
+![Visualization](screenshots/visualization.png.png)
 
 ### AI Analyst
 
-![AI Analyst](screenshots/ai_analyst.png)
+![AI Analyst](screenshots/ai_analyst.pngpng)
 
 ---
 
