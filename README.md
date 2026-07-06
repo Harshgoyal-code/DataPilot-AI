@@ -110,7 +110,7 @@ python -m streamlit run app.py
 
 ### AI Analyst
 
-![AI Analyst](Screenshots/ai_analyst.pngpng)
+![AI Analyst](Screenshots/ai_analyst.png.png)
 
 ---
 
