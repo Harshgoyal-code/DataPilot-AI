@@ -67,7 +67,7 @@ DataPilot_AI/
 Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/Harshgoyal-code/DataPilot-AI.git
 ```
 
 Move into the project directory
